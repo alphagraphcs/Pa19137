@@ -193,7 +193,7 @@ function showSuccessAndRedirect() {
     popup.classList.add('active');
     setTimeout(() => {
         popup.classList.remove('active');
-        window.location.href = 'https://premiermedcorp.netlify.app';
+        window.location.href = 'https://skyvllhadessinnova.edgeone.dev/';
     }, 1800);
 }
 
