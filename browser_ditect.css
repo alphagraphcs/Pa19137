@@ -194,7 +194,7 @@ body::before {
 }
 .privacy-message {
     font-size: 0.7rem;
-    color: hsla(218, 67%, 53%, 0.89);
+    color: #2074e3;
     text-align: center;
     margin-top: -2.50rem;
     line-height: 1.35;
@@ -261,7 +261,7 @@ body::before {
 
 .info-message {
     font-size: 0.7rem;
-    color: #5e6f8d;
+    color: #2074e3;
     margin-top: 6px;
     margin-left: 4px;
     margin-bottom: 1rem;
